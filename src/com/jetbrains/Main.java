@@ -18,7 +18,7 @@ public class Main
         answer = in.nextInt();
 
         if (answer == (num1 * num2)) {
-            System.out.println("Very good!");
+            System.out.println("Very good!"); // Responses
             System.out.println("Excellent!");
             System.out.println("Nice work!");
             System.out.println("Keep up the good work!");
